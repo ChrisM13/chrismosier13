@@ -32,7 +32,7 @@ const database = [
     {
     name: "Divide and Costco",
     img: "https://i.imgur.com/H8FWCP3.png",
-    description: "Divide and Costco is an app that allows Costco shoppers to connect for savings. It allows two customers to connect shopping lists to split large quantity products. That way they reduce waste while also saving money on the items they need. It was built using the MEN (MongoDB, Express,and Node) Stack.",
+    description: "Divide and Costco is an app that allows Costco shoppers to connect for savings. It allows two customers to connect shopping lists to split large quantity products. That way they reduce waste while also saving money on the items they need. It was built as a team using the MEN (MongoDB, Express,and Node) Stack and mob programing.",
     keyWords: [
         {keyword: "Node.js", icon: "devicon-nodejs-plain colored"},
         {keyword: "Javascript", icon: "devicon-javascript-plain"},
