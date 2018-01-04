@@ -45,7 +45,7 @@ const database = [
         {keyword: "YelpAPI", icon: "fa fa-yelp"}
     ],
     liveURL: "https://divide-and-costco.herokuapp.com/",
-    repoURL: "https://github.com/ChrisM13/MineSweeper"
+    repoURL: "https://github.com/ChrisM13/divideandcostco"
 },
     {
     name: "Whatcha Think",
