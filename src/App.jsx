@@ -25,7 +25,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Router>
+        <Router > 
           <div>
             <NavBar />
               <Switch>
@@ -35,7 +35,7 @@ class App extends Component {
                     projects={this.state.projects}
                     />
                   }/>
-                <Route exact path='/' component={Home}/>
+                <Route path='/' component={Home}/>
                 <Route path='/about' component={About}/>
               </Switch>
             </div>

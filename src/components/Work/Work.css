@@ -15,7 +15,7 @@ Parallax {
 
 .icons {
     display: inline-flex;
-    text-align: right;
+    text-align: left;
     flex-wrap: wrap;
     width: 50%;
 
