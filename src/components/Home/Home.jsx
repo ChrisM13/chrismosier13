@@ -15,7 +15,7 @@ const Home = () => {
                 <h1 className="statement">and I am a Web Developer</h1>
             </div>
             <video type="video/mp4" autoPlay loop id="video-background" muted>
-                <source src="assets/video/portfolioVid.mp4" />
+                <source src="./assets/video/portfolioVid.mp4" />
             </video>
         </div>
     )
