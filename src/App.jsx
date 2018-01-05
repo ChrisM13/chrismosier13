@@ -35,7 +35,7 @@ class App extends Component {
                     projects={this.state.projects}
                     />
                   }/>
-                <Route path='/' component={Home}/>
+                <Route exact path='/' component={Home}/>
                 <Route path='/about' component={About}/>
               </Switch>
             </div>
